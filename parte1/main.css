@@ -1,0 +1,21 @@
+.padre {
+	background-color: #ED462F;
+	height: 300px;
+	width: 300px;
+	position: static;
+}
+.hijo {
+	background-color: #752E80;
+	height: 200px;
+	width: 200px;
+	position: relative;
+	top: 50px;
+	left: 50px;
+}
+.nieto{
+	background-color: #FFF835;
+	height: 80px;
+	width: 80px;
+	position: absolute;
+	top:0;
+}
